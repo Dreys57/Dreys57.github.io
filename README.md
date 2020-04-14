@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Post mortem pour S.O.S Save Our Souls
 
-You can use the [editor on GitHub](https://github.com/Dreys57/Dreys57.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+S.O.S Save Our Souls est un platformer en 2D dans lequel le joueur incarne un explorateur qui vient de récupérer un artéfact qui lui permet d'inverser sa gravité. Pendant son aventure, il sera par moments accompagné par une réflexion de lui-même, qui imite ses mouvements et devra traverser certains endroits en sa compagnie. Il doit alors se frayer un chemin dans le labyrinthe qu'est devenu le temple dans lequel se trouvait l'artéfact pour trouver une sortie et peut-être comprendre ce qu'il se passe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Points négatifs
 
-### Markdown
+À cause du confinement, le développement du jeu a été quelque peu perturbée.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En ajoutant à cela le fait que mon binôme est tombée malade, nous avons dû demander un délai supplémentaire pour pouvoir finir le jeu.
 
-```markdown
-Syntax highlighted code block
+L'artiste à qui nous avions demandé de l'aide pour les arts a fait un super travail, mais un peu à la dernière minute, ce qui nous a passablement stressés.
 
-# Header 1
-## Header 2
-### Header 3
+## Points positifs
 
-- Bulleted
-- List
+Travailler avec Solange était très agérable, elle était motivée et dynamique, malgré une période de maladie.
 
-1. Numbered
-2. List
+L'artiste a fait un très bon travail, qui était tout à fait en accord avec la vision que nous avions du jeu.
 
-**Bold** and _Italic_ and `Code` text
+J'ai particulièrement apprécié travailler sur les mécaniques du jeu. C'était une bon expérience et m'a permis d'apprendre beaucoup de choses.
 
-[Link](url) and ![Image](src)
-```
+## Conclusion
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dreys57/Dreys57.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Malgré les différents problèmes que nous avons renctontrés durant le développement de ce jeu, j'ai beaucoup appris de cette expérience, autant en programmation et design qu'en management d'équipe et de tâches et je suis particulièrement content d'avoir pu faire appel à un artiste pour le jeu. En somme une très bonne expérience, même si je ne pensais pas la même chose à certains moments.
