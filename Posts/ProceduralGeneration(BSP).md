@@ -13,8 +13,6 @@ For this specific game, I had to create a 3D museum for the level and, being my 
 
 To that end, I searched how to create a BSP algorithm that would fit my needs and found a series of tutorials on youtube that explained how to create a 3D dungeon level in Unity: https://www.youtube.com/playlist?list=PLcRSafycjWFfEPbSSjGMNY-goOZTuBPMW
 
-![LevelGeneration2](https://user-images.githubusercontent.com/55787228/84154270-2bb72e00-aa67-11ea-83ea-a71eda082e59.JPG)
-
 
 ## Problems I encountered while working on the level generation
 
@@ -28,6 +26,8 @@ As I was following the tutorial, I had quite a hard time understanding what he w
 That was what the tutorial did and I followed it closely at first. That's when the first problems arised.
 
 ### The wall problem
+
+![LevelGeneration2](https://user-images.githubusercontent.com/55787228/84154270-2bb72e00-aa67-11ea-83ea-a71eda082e59.JPG)
 
 At the end of his tutorial, this person just adds a prefab wall he had, without any explanation on what it was or how he created it.
 
