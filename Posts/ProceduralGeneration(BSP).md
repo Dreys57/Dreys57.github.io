@@ -13,6 +13,8 @@ For this specific game, I had to create a 3D museum for the level and, being my 
 
 To that end, I searched how to create a BSP algorithm that would fit my needs and found a series of tutorials on youtube that explained how to create a 3D dungeon level in Unity: https://www.youtube.com/playlist?list=PLcRSafycjWFfEPbSSjGMNY-goOZTuBPMW
 
+![finalVersionLevel](https://user-images.githubusercontent.com/55787228/84155132-41792300-aa68-11ea-8687-4251a103b321.JPG)
+
 
 ## Problems I encountered while working on the level generation
 
