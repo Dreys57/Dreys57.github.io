@@ -23,6 +23,8 @@ As I was following the tutorial, I had quite a hard time understanding what he w
 - When you have your rooms ready, you have to link them by corridors, using the tree you set up with the BSP algorithm to connect children to parents, but only once!
 - And finally, you create a mesh for the floor that will take both the rooms and corridors, before instantiating walls.
 
+![CodeProcedural1](https://user-images.githubusercontent.com/55787228/84154581-97010000-aa67-11ea-9717-7878bbf0c231.JPG)
+
 That was what the tutorial did and I followed it closely at first. That's when the first problems arised.
 
 ### The wall problem
