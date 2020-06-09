@@ -70,7 +70,7 @@ As for the other objects, instead of putting them in the scene and then moving t
 
 ## What is left to do and final thoughts
 
-At the end of the project, there are still things I would have liked to do but because of deadlines and my partner not being very cooperative before bailing on me for the last two weeks, I couldn't.
+At the end of the project, there are still things I would have liked to do but because of deadlines and my partner not being very cooperative before leaving the school in the last two weeks, I couldn't.
 
 The first thing I would have wanted (and possibly needed) more time to polish is the AI. It is working, pathfinding and all, but it still has bugs from time to time I couldn't solve in time unfortunately. I also only could make one AI work at a time in the level and even though I tried my best to make it work, I was out of time,  which means that for now there's only one AI in the game and it could use some polish.
 
