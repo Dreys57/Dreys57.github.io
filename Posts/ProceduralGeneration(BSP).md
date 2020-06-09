@@ -51,4 +51,14 @@ When I finally had my level up and working, I had to place my player, objects an
 
 It seemed easy at first, because all I had to do was cycle through the rooms, deciding what would go where. But it unforutnately wasn't.
 
-The first problem I had was that, the list of rooms the generator had returned contained not only the rooms, but also the corridors. Obvisouly I didn't want my player or guards to spawn there, nor other objects. After some pondering, I realized that the corridors weren't part of a tree structure, so they didn't have any parent or children, which I used in an if statement that forced the nodes I was going to spawn objects in to have a parent, or else move on.
+The first problem I had was that, the list of rooms the generator had returned contained not only the rooms, but also the corridors. Obvisouly I didn't want my player or guard to spawn there, nor other objects. After some pondering, I realized that the corridors weren't part of a tree structure, so they didn't have any parent or children, which I used in an if statement that forced the nodes I was going to spawn objects in to have a parent, or else move on.
+
+## What is left to do and final thoughts
+
+At the end of the project, there are still things I would have liked to do but because of deadlines and my partner not being very cooperative before bailing on me for the last two weeks, I couldn't.
+
+The first thing I would have wanted (and possibly needed) more time to polish is the AI. It is working, pathfinding and all, but it still has bugs from time to time I couldn't solve in time unfortunately. I also only could make one AI work at a time in the level and even though I tried my best to make it work, I was out of time,  which means that for now there's only one AI in the game and it could use some polish.
+
+As for the level generation, I am quite happy with what I did, even though I would probably want to optimize some things like the random object spawn.
+
+In the end, it was a great experience and I learned a lot, even though it wasn't easy all the time, and I hope I can keep learning more to better myself.
